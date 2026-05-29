@@ -154,3 +154,17 @@ button {
   color: transparent;
   border: none;
 }
+
+.buttonsubtraction{
+  background: transparent url(../Assets/buttonsubtraction.png) center/cover no-repeat;
+  background-color: transparent;
+  color: transparent;
+  border: none;
+}
+
+.buttonaddition{
+  background: transparent url("../Assets/buttonaddition.png") center/cover no-repeat;
+  background-color: transparent;
+  color: transparent;
+  border: none;
+}
