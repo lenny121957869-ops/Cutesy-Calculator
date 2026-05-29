@@ -140,3 +140,10 @@ button {
   color:transparent;
   border:none;
 }
+
+.buttondivision{
+  background:transparent url("../Assets/buttondivision.png") center/cover no-repeat;
+  background-color: transparent;
+  color: transparent;
+  border:none;
+}
