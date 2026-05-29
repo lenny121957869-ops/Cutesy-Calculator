@@ -2,8 +2,7 @@
   --bg: #fce4ec;
   --panel: #fff1f8;
   --text: #5d3c6a;
-  --button: #f8bbd0;
-  --accent: #ad1457;
+  
 }
 
 * {
@@ -22,7 +21,7 @@ body {
 
 .calculator {
   width: min(600px, 550px);
-  height: min(6000px, 650px);
+  height: min(800px, 700px);
   background: var(--panel);
   padding: 1.25rem;
   border-radius: 120px;
@@ -71,11 +70,7 @@ button {
 }
 
 
-#equals {
-  grid-column: span 2;
-  background: var(--accent);
-  color: white;
-}
+
 
 #clear {
   grid-column: span 2;
@@ -136,4 +131,8 @@ button {
 
 .buttondecimal{
   background: transparent url("../Assets/buttondecimal.png") center/cover no-repeat;
+}
+
+#equals {
+  background: transparent url("../Assets/buttonequals.png") center/cover no-repeat;
 }
