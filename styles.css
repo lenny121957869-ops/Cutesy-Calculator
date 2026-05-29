@@ -3,7 +3,6 @@
   --panel: #fff1f8;
   --text: #5d3c6a;
   --button: #f8bbd0;
-  --button-hover: #f48fb1;
   --accent: #ad1457;
 }
 
@@ -71,11 +70,6 @@ button {
   transition: transform 0.12s ease, background 0.12s ease;
 }
 
-button:hover,
-button:focus {
-  background: var(--button-hover);
-  transform: translateY(-1px);
-}
 
 #equals {
   grid-column: span 2;
@@ -102,11 +96,21 @@ button:focus {
   border: none;
 }
 
-.button-image-one:hover,
-.button-image-one:focus,
-.button-image-one:active,
-.button-image-two:hover,
-.button-image-two:focus,
-.button-image-two:active {
-  transform: none;
+.button-image-3 {
+  background: transparent url("../Assets/button3.png") center/cover no-repeat;
+  background-color: transparent;
+  color: transparent;
+  border: none;
+}
+.button-image-4 {
+  background: transparent url("../Assets/button4.png") center/cover no-repeat;
+  background-color: transparent;
+  color: transparent;
+  border: none;
+}
+.button-image-5{
+  background: transparent url("../Assets/button5.png") center/cover no-repeat;
+  background-color: transparent;
+  color: transparent;
+  border: none;
 }
