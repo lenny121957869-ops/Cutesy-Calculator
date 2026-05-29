@@ -57,7 +57,7 @@ body {
 
 button {
   border-radius: 16px;
-  width: 80 px;
+  width: 80px;
   height: 80px;
   padding: 0;
   min-width: 72px;
@@ -79,60 +79,60 @@ button {
 }
 
 .button-image-one {
-  background: transparent url("../Assets/button1.png") center/cover no-repeat;
+  background: transparent url("Assets/button1.png") center/cover no-repeat;
 }
 .button-image-two {
-  background: transparent url("../Assets/button2.png") center/cover no-repeat;
+  background: transparent url("Assets/button2.png") center/cover no-repeat;
 }
 
 .button-image-3 {
-  background: transparent url("../Assets/button3.png") center/cover no-repeat;
+  background: transparent url("Assets/button3.png") center/cover no-repeat;
 }
 .button-image-4 {
-  background: transparent url("../Assets/button4.png") center/cover no-repeat;
+  background: transparent url("Assets/button4.png") center/cover no-repeat;
 }
 .button-image-5{
-  background: transparent url("../Assets/button5.png") center/cover no-repeat;
+  background: transparent url("Assets/button5.png") center/cover no-repeat;
 }
 
 .button-image-6{
-  background:transparent url("../Assets/button6.png") center/cover no-repeat;
+  background:transparent url("Assets/button6.png") center/cover no-repeat;
 }
 .button-image-7{
-  background: transparent url("../Assets/button7.png") center/cover no-repeat;
+  background: transparent url("Assets/button7.png") center/cover no-repeat;
 }
 .button-image-8{
-  background: transparent url("../Assets/button8.png")center/cover no-repeat;
+  background: transparent url("Assets/button8.png") center/cover no-repeat;
 }
 
 .button-image-9{
-  background: transparent url("../Assets/button9.png") center/cover no-repeat;
+  background: transparent url("Assets/button9.png") center/cover no-repeat;
 }
 
 .buttondivision{
-  background:transparent url("../Assets/buttondivision.png") center/cover no-repeat;
+  background:transparent url("Assets/buttondivision.png") center/cover no-repeat;
 }
 
 .buttonmultiplication{
-  background: transparent url("../Assets/buttonmultiplication.png") center/cover no-repeat;
+  background: transparent url("Assets/buttonmultiplication.png") center/cover no-repeat;
 }
 
 .buttonsubtraction{
-  background: transparent url("../Assets/buttonsubtraction.png") center/cover no-repeat;
+  background: transparent url("Assets/buttonsubtraction.png") center/cover no-repeat;
 }
 
 .buttonaddition{
-  background: transparent url("../Assets/buttonaddition.png") center/cover no-repeat;
+  background: transparent url("Assets/buttonaddition.png") center/cover no-repeat;
 
 }
 .button-image-0{
-  background: transparent url("../Assets/button0.png") center/cover no-repeat;
+  background: transparent url("Assets/button0.png") center/cover no-repeat;
 }
 
 .buttondecimal{
-  background: transparent url("../Assets/buttondecimal.png") center/cover no-repeat;
+  background: transparent url("Assets/buttondecimal.png") center/cover no-repeat;
 }
 
 #equals {
-  background: transparent url("../Assets/buttonequals.png") center/cover no-repeat;
+  background: transparent url("Assets/buttonequals.png") center/cover no-repeat;
 }
