@@ -127,3 +127,16 @@ button {
   color:transparent;
   border:none;
 }
+.button-image-8{
+  background: transparent url("../Assets/button8.png")center/cover no-repeat;
+  background-color: transparent;
+  color:transparent;
+  border:none;
+}
+
+.button-image-9{
+  background: transparent url("../Assets/button9.png") center/cover no-repeat;
+  background-color: transparent;
+  color:transparent;
+  border:none;
+}
