@@ -114,3 +114,16 @@ button {
   color: transparent;
   border: none;
 }
+
+.button-image-6{
+  background:transparent url("../Assets/button6.png") center/cover no-repeat;
+  background-color: transparent;
+  color: transparent;
+  border: none;
+}
+.button-image-7{
+  background: transparent url("../Assets/button7.png") center/cover no-repeat;
+  background-color: transparent;
+  color:transparent;
+  border:none;
+}
