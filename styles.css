@@ -101,3 +101,12 @@ button:focus {
   color: transparent;
   border: none;
 }
+
+.button-image-one:hover,
+.button-image-one:focus,
+.button-image-one:active,
+.button-image-two:hover,
+.button-image-two:focus,
+.button-image-two:active {
+  transform: none;
+}
