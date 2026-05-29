@@ -51,8 +51,6 @@ body {
   display: grid;
   grid-template-columns: repeat(4, auto);
   gap: 1.5rem;
-  width: max-content;
-  height: 120px;
   margin: 0 auto;
   justify-items: center;
   justify-content: center;
@@ -61,7 +59,9 @@ body {
 button {
   border: none;
   border-radius: 16px;
-  padding: 1rem 1.25rem;
+  width: 80 px;
+  height: 80px;
+  padding: 0;
   min-width: 72px;
   font-size: 1.1rem;
   cursor: pointer;
